@@ -1,11 +1,11 @@
 {
-    "name": "ueberdosis/hocuspocus-laravel",
+    "name": "wprk/hocuspocus-laravel",
     "description": "Integrates Hocuspocus into Laravel with a few clicks",
     "keywords": [
         "laravel",
         "hocuspocus"
     ],
-    "homepage": "https://github.com/ueberdosis/hocuspocus-laravel",
+    "homepage": "https://github.com/wprk/hocuspocus-laravel",
     "license": "MIT",
     "authors": [
         {
